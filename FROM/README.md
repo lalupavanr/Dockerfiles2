@@ -1,2 +1,2 @@
 ### FROM
-from should be the first file is running
+from should be the first instruction in your docker file 
