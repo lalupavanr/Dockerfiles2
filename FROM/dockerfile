@@ -1,1 +1,2 @@
 From amlalinux 
+RUN yum install nginx -y 
