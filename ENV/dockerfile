@@ -1,0 +1,5 @@
+FROM almalinux
+ENV AUTHOR="LALUPAVAN"\
+    COURSE="DOCKER"\
+    DURATION="2 HRS"
+    
