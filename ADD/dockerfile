@@ -1,2 +1,2 @@
 FROM almalinux
-ADD https://raw.githubusercontent.com/ravi2krishna/terraform-aws-mdp-161/main/ec2.tf/tmp/
+ADD https://raw.githubusercontent.com/techworldwithsiva/jenkins-shared-pipelines/master/vars/nodeNPM.groovy/tmp/
