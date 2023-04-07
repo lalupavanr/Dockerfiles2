@@ -1,3 +1,4 @@
 FROM almalinux
 ADD https://raw.githubusercontent.com/techworldwithsiva/jenkins-shared-pipelines/master/vars/nodeNPM.groovy /tmp/
 ADD apache-tomcat-10.1.7-embed.tar.gz /tmp/
+# ADD [SOURCE][DESTINATION]
